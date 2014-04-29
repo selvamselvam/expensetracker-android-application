@@ -12,9 +12,13 @@ Expense Tracker is simple, easy to use Android application which use to track th
 Unique Future.
 
 ★ Read the multiple Bank ATM/Purchase SMS/Alert messages and track the expense.
+
 ★ Option to track the currency using custom Expense.
+
 ★ Provide Daily and Monthly Reports for analyzing the expenses.
+
 ★ Preference to configure multiple bank contact for tracking the expenses.
+
 ★ No manual entry for expenses using Debit/Credit Card purchase/withdraw.
 
 
